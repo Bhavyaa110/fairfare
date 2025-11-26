@@ -1,0 +1,7 @@
+project_id = "ntetrtxxgdqynmavkack"
+
+[functions.calculate-fare]
+verify_jwt = false
+
+[functions.geocode]
+verify_jwt = false
